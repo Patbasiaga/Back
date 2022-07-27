@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "jHbKd6D+6d7UCuuNFCsaqY/cPozqJnlxtQKnqngmWU8sHsMixBZQhBj7D31yEET9JYMyxfGP0u9YXehIWg+mtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Patryk\\Desktop\\Back\\SignalRWithMQTT_Back-master\\SignalRWithMQTT_Back-master\\Back.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Patryk\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Patryk\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Patryk\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\Patryk\\.nuget\\packages\\mqttnet\\4.0.2.221\\mqttnet.4.0.2.221.nupkg.sha512",
+    "C:\\Users\\Patryk\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Patryk\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Patryk\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Patryk\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

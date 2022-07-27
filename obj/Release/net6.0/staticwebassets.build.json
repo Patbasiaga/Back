@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "l87iAhxalwWx9iS4RH90m8tr5k0m352bjBfsqLaycQk=",
+  "Source": "SignalRWithMQTT_Back",
+  "BasePath": "_content/SignalRWithMQTT_Back",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
